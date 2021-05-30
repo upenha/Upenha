@@ -2,9 +2,9 @@
 <img max-width="800" src="https://github.com/Upenha/Upenha/blob/main/profile.png"/>
 </div>
 
-## Links
+<!--## Links
 ![Twitch Status](https://img.shields.io/twitch/status/upenha?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/upenha_?style=for-the-badge)
-<!--### Hi there 👋
+### Hi there 👋
 **Upenha/Upenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
