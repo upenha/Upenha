@@ -1,5 +1,5 @@
 <div align="center">
-<img max-width="800" src="https://github.com/Upenha/Upenha/blob/main/profile.png"/>
+<img max-width="800" src="https://github.com/Upenha/Upenha/blob/main/new-github.png"/>
 </div>
 
 <!--## Links
